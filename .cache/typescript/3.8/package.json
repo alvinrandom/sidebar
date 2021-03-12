@@ -1,0 +1,23 @@
+{
+  "private": true,
+  "dependencies": {
+    "types-registry": "^0.1.532"
+  },
+  "devDependencies": {
+    "@types/async": "^3.2.5",
+    "@types/atob": "^2.1.2",
+    "@types/classnames": "^2.2.11",
+    "@types/concurrently": "^6.0.1",
+    "@types/eslint": "^7.2.7",
+    "@types/eslint-config-prettier": "^6.11.0",
+    "@types/eslint-plugin-prettier": "^3.1.0",
+    "@types/gh-pages": "^3.0.0",
+    "@types/node-sass": "^4.11.1",
+    "@types/prettier": "^2.2.2",
+    "@types/react": "^17.0.3",
+    "@types/react-dom": "^17.0.2",
+    "@types/rimraf": "^3.0.0",
+    "@types/rollup-plugin-peer-deps-external": "^2.2.0",
+    "@types/sprintf": "^0.1.0"
+  }
+}
